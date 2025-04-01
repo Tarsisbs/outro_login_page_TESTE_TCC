@@ -224,6 +224,11 @@ form.sign-in-form {
   height: 41px;
   font-weight: 600;
   font-size: 0.8rem;
+  transition: .2s ease-in-out;
+}
+
+.btn.transparent:hover{
+  background-color: #800000;
 }
 
 .right-panel .image,
